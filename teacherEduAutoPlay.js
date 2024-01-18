@@ -10,7 +10,7 @@
 // ==/UserScript==
 
 // ==OpenUserJS==
-// @author createsun
+// @author       createsun
 // ==OpenUserJS==
 
 
