@@ -10,9 +10,9 @@
 // ==/UserScript==
 
 // ==OpenUserJS==
-// @author       createsun
-// ==OpenUserJS==
-
+// @author createsun
+// @collaborator username
+// ==/OpenUserJS==
 
 
 const playNext = () => {
