@@ -8,6 +8,7 @@
 // @match        https://course.teacheredu.cn/jsw/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=teacheredu.cn
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 // ==OpenUserJS==
@@ -39,7 +40,7 @@ const playNext = () => {
 
 (function() {
     'use strict';
-    console.log('monkey success', window.location.href)
+    console.log('视频自动播放脚本 success', window.location.href)
     window.addEventListener("load", (event) => {
         console.log('start script')
         playNext()
