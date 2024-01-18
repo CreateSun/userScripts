@@ -9,6 +9,11 @@
 // @grant        none
 // ==/UserScript==
 
+// ==/UserScript==
+// @author createsun
+// ==/UserScript==
+
+
 
 const playNext = () => {
     if(!document.querySelector('#li_menu_1_0_id')) return
