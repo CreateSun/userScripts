@@ -9,7 +9,7 @@
 // @grant        none
 // ==/UserScript==
 
-// ==/UserScript==
+// ====
 // @author createsun
 // ==/UserScript==
 
