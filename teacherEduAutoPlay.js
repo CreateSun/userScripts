@@ -4,6 +4,7 @@
 // @version      2024-01-15
 // @description  支持https://course.teacheredu.cn/这个地址下的视频自动播放
 // @author       createsun
+// @license      MIT
 // @match        https://course.teacheredu.cn/jsw/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=teacheredu.cn
 // @grant        none
