@@ -9,9 +9,9 @@
 // @grant        none
 // ==/UserScript==
 
-// ====
+// ==OpenUserJS==
 // @author createsun
-// ==/UserScript==
+// ==OpenUserJS==
 
 
 
